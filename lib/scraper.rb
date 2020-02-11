@@ -47,7 +47,7 @@ Scraper.new.get_page
     end
   end
 
-    binding.pry 
+    
   end
 
 
